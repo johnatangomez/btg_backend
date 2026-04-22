@@ -16,7 +16,7 @@ Resources:
           yum update -y
           yum install -y python3 git
           cd /home/ec2-user
-          git clone https://github.com/tuusuario/btg_backend.git
+          git clone https://github.com/johnatangomez/btg_backend.git
           cd btg_backend
           python3 -m venv venv_btg
           source venv_btg/bin/activate

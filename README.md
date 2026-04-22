@@ -76,6 +76,7 @@ btg_backend/
 ---
 ## Instalación paso a paso
 
+- Clonar el proyecto de https://github.com/johnatangomez/btg_backend.git
 - python3 -m venv venv_btg
 - source venv_btg/bin/activate   # Linux/Mac
 - venv_btg\Scripts\activate      # Windows
