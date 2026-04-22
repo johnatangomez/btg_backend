@@ -1,0 +1,28 @@
+# Entorno virtual
+venv/
+venv_btg/
+
+# Archivos de entorno
+.env
+
+# Archivos de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de pruebas
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Archivos de base de datos locales
+*.db
+*.sqlite
